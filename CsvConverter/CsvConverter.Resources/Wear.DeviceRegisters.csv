@@ -1,0 +1,23 @@
+Device;RegisterName;RegisterRawName;RegisterAddress;RegisterByteSize;IsUsedForCamera;CameraBitPosition;PinBoardName;RegisterDescription
+Wear;Motion;ADD_REG_DATA;34;2;;;;
+Wear;Camera 0;ADD_REG_CAM0;36;1;Yes;0;CAM0;
+Wear;Camera 1;ADD_REG_CAM1;37;1;Yes;0;CAM1;
+Wear;Digital and analog inputs;ADD_REG_MISC;35;2;Yes;14;DI0;
+Wear;Digital and analog inputs;ADD_REG_MISC;35;2;Yes;15;DI1;
+Wear;Digital Output 0;ADD_REG_DOUT0;38;1;;;;
+Wear;Digital Output 1;ADD_REG_DOUT0;39;1;;;;
+Wear;Start acquisition;ADD_REG_START_DATA;32;1;;;;
+Wear;Start stimulation;ADD_REG_START_STIM;33;1;;;;
+Wear;Acquisition state;ADD_REG_ACQ_STATUS;40;1;;;;
+Wear;Sensor's temperature;ADD_REG_TEMP;43;1;;;;
+Wear;Retries of wireless frames;ADD_REG_TX_RETRIES;44;1;;;;
+Wear;Battery;ADD_REG_BATTERY;45;1;;;;
+Wear;Wireless quality status;ADD_RX_GOOD;55;1;;;;
+Wear;Sensor's firmware version (major);ADD_WEAR_FW_MAJOR;47;1;;;;
+Wear;Sensor's firmware version (minor);ADD_WEAR_FW_MINOR;48;1;;;;
+Wear;Sensor's hardware version (major);ADD_WEAR_HW_MAJOR;49;1;;;;
+Wear;Sensor's hardware version (minor);ADD_WEAR_HW_MINOR;50;1;;;;
+Wear;Receiver's firmware version (major);ADD_RECEIVER_FW_MAJOR;51;1;;;;
+Wear;Receiver's firmware version (minor);ADD_RECEIVER_FW_MINOR;52;1;;;;
+Wear;Receiver's hardware version (major);ADD_RECEIVER_HW_MAJOR;53;1;;;;
+Wear;Receiver's hardware version (minor);ADD_RECEIVER_HW_MINOR;54;1;;;;

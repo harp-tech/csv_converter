@@ -1,0 +1,4 @@
+Device;RegisterName;RegisterRawName;RegisterAddress;RegisterByteSize;IsUsedForCamera;CameraBitPosition;PinBoardName;RegisterDescription
+Multi Pwm;State of the PWM channels;ADD_REG_EXEC_STATE;73;1;;;;
+Multi Pwm;Set Triggers;ADD_REG_START_PWM;60;1;;;;
+Multi Pwm;Clear Triggers;ADD_REG_STOP_PWM;61;1;;;;

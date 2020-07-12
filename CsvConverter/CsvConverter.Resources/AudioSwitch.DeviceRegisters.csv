@@ -1,0 +1,3 @@
+Device;RegisterName;RegisterRawName;RegisterAddress;RegisterByteSize;IsUsedForCamera;CameraBitPosition;PinBoardName;RegisterDescription
+Audio Switch;Channel selection;ADD_REG_CHANNEL_SEL;33;2;;;;
+Audio Switch;Digital inputs;ADD_REG_DI_STATE;34;1;Yes;0;DI0;

@@ -1,0 +1,13 @@
+Device;RegisterName;RegisterRawName;RegisterAddress;RegisterByteSize;IsUsedForCamera;CameraBitPosition;PinBoardName;RegisterDescription
+Camera Controller;Camera 0;ADD_REG_CAM0;40;1;Yes;0;CAM0 TRIG;
+Camera Controller;Camera 1;ADD_REG_CAM1;41;1;Yes;0;CAM1 TRIG;
+Camera Controller;Synchronism input  0;ADD_REG_CAM0;42;1;Yes;0;CAM0 SYNC;
+Camera Controller;Synchronism input  1;ADD_REG_CAM1;43;1;Yes;0;CAM1 SYNC;
+Camera Controller;Input 0;ADD_REG_INPUT0;39;1;;;IN0;
+Camera Controller;Start cameras;ADD_REG_START_CAMS;32;1;;;;
+Camera Controller;Stop cameras;ADD_REG_STOP_CAMS;33;1;;;;
+Camera Controller;Enable motors;ADD_REG_ENABLE_MOTORS;34;1;;;;
+Camera Controller;Disable motors;ADD_REG_DISABLE_MOTORS;35;1;;;;
+Camera Controller;Set outputs;ADD_REG_SET_OUTPUTS;36;1;;;;
+Camera Controller;Clear outputs;ADD_REG_CLR_OUTPUTS;37;1;;;;
+Camera Controller;Write outputs;ADD_REG_OUTPUTS;38;1;;;;

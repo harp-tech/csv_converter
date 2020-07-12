@@ -1,0 +1,11 @@
+Device;RegisterName;RegisterRawName;RegisterAddress;RegisterByteSize;IsUsedForCamera;CameraBitPosition;PinBoardName;RegisterDescription
+Synchronizer;Inputs;ADD_REG_INPUTS_STATE;32;2;Yes;0;INPUT0;
+Synchronizer;Inputs;ADD_REG_INPUTS_STATE;32;2;Yes;1;INPUT1;
+Synchronizer;Inputs;ADD_REG_INPUTS_STATE;32;2;Yes;2;INPUT2;
+Synchronizer;Inputs;ADD_REG_INPUTS_STATE;32;2;Yes;3;INPUT3;
+Synchronizer;Inputs;ADD_REG_INPUTS_STATE;32;2;Yes;4;INPUT4;
+Synchronizer;Inputs;ADD_REG_INPUTS_STATE;32;2;Yes;5;INPUT5;
+Synchronizer;Inputs;ADD_REG_INPUTS_STATE;32;2;Yes;6;INPUT6;
+Synchronizer;Inputs;ADD_REG_INPUTS_STATE;32;2;Yes;7;INPUT7;
+Synchronizer;Inputs;ADD_REG_INPUTS_STATE;32;2;Yes;8;INPUT8;
+Synchronizer;Outputs;ADD_REG_OUTPUTS;33;;;;;

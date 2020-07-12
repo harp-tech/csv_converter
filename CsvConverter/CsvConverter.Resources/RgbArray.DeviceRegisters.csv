@@ -1,0 +1,6 @@
+Device;RegisterName;RegisterRawName;RegisterAddress;RegisterByteSize;IsUsedForCamera;CameraBitPosition;PinBoardName;RegisterDescription
+Rgb Array;Status (Updated (1)/Disabled (2));ADD_REG_LEDS_STATUS;32;1;;;;
+Rgb Array;Color Array;ADD_REG_COLOR_ARRAY;34;1;;;;
+Rgb Array;Color Array (bus 0 only);ADD_REG_COLOR_ARRAY_BUS0;35;1;;;;
+Rgb Array;Color Array (bus 1 only);ADD_REG_COLOR_ARRAY_BUS0;36;1;;;;
+Rgb Array;Digital input 0;ADD_REG_INPUTS_STATE;44;1;Yes;0;DI0;

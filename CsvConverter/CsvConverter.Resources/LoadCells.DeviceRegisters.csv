@@ -1,0 +1,5 @@
+Device;RegisterName;RegisterRawName;RegisterAddress;RegisterByteSize;IsUsedForCamera;CameraBitPosition;PinBoardName;RegisterDescription
+Load Cells;Load cells data;ADD_REG_LOAD_CELLS;33;2;;;;
+Load Cells;Digital input 0;ADD_REG_DI0;34;1;Yes;0;DI0;
+Load Cells;Digital output 0;ADD_REG_DO0;35;1;;;DO0;
+Load Cells;Digital outputs;ADD_REG_DO_OUT;45;2;;;;

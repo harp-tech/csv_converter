@@ -1,0 +1,3 @@
+Device;RegisterName;RegisterRawName;RegisterAddress;RegisterByteSize;IsUsedForCamera;CameraBitPosition;PinBoardName;RegisterDescription
+Common on all devices;Device ID number;ADD_R_WHO_AM_I;0;1;;;;
+Common on all devices;Heartbeat;ADD_R_TIMESTAMP_SECOND;8;2;;;;
